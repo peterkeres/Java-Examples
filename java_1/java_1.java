@@ -22,7 +22,7 @@ public class java_1
         
         //objects
         FileReader read = new FileReader("java_1/input.txt");      //to read the lines in the file
-        Scanner scanF = new Scanner(read);                  //so i can use the lines in the file
+        Scanner scanF = new Scanner(read);                                  //so i can use the lines in the file
         PrintWriter outFile = new PrintWriter("java_1/output.txt");  //lets me make an output file and write too it
         
         
