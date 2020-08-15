@@ -44,7 +44,7 @@ public class java_4
                     //what line im working on 
                     workingLine = scanF.nextLine();
                     
-                    //getting the lenght of the line im working on 
+                    //getting the length of the line im working on
                     lineLen = workingLine.length();
                     
                     //finding all the car
