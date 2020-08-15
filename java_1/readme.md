@@ -1,4 +1,4 @@
-#Lab 8.3 Reading files
+# Lab 8.3 Reading files
 
 Write a program that reads all line of an input file and sends them to output file, preceded by line number. the input file "input.txt" is attached with the lab. the input is:
 
