@@ -16,13 +16,13 @@
       <sourceFolder url="file://$MODULE_DIR$/java 5" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java_2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java_14" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/java_11" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java_12" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java_13" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java_7" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java_3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java_4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java_5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java_15" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
