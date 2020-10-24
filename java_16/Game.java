@@ -91,7 +91,7 @@ public class Game
 
     /**
      *
-     * @return What action the player wants to take
+     * @return What action the Game.player wants to take
      */
     private int playerAction(){
         boolean accept = false;
