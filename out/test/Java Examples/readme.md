@@ -90,3 +90,6 @@ Your project will be evaluated based on (1) **your deliverables** (if you submit
 
 1. A presentation recorded in a video and uploaded to YouTube about your project. You can create a power point presentation and record your presentation explaining your report to your manager. You can use the freely available software [OBSProject](https://obsproject.com/ ) to record your presentation and upload it to YouTube.  Also upload the presentation to the submission folder. 
 
+[TECHNICAL REPORT]()
+
+[VIDEO PRESENTATION]()

@@ -32,6 +32,8 @@
       <sourceFolder url="file://$MODULE_DIR$/java_22" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/java_23" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/java_24" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/java_25" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/java_26" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
